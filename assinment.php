@@ -22,3 +22,6 @@ echo "\n";
 $result = $num > 0 ? "Its Positive" : ($num < 0 ? ($num < -10 ? "Its below -10" : "Its Negative"): "Its Zero");
 
 echo $result;
+
+
+/// Output
